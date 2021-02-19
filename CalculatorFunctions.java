@@ -245,7 +245,6 @@ public class CalculatorFunctions {
 
                 //this loop is meant to complete the order of operations
 
-
                 StringBuilder first = new StringBuilder();
                 StringBuilder second = new StringBuilder();
                 boolean finishfirst = false;
