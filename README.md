@@ -1,2 +1,3 @@
 # multifunction-calc
-A calculator capable of reading a user input (an equation) and outputting the solution to the equation.
+A calculator coded using the Java programming language that accepts an equation from the user and returns the solution or simplified form. 
+This project is unfinished and contains multiple known and unknown bugs.
